@@ -94,12 +94,12 @@ body {
 }
 
 .blaid {
-	background:  url('/image/blaid.png') no-repeat top right,#14131a url('/image/background.png') no-repeat center center / 100%;
+	background:  url('../image/blaid.png') no-repeat top right,#14131a url('../image/background.png') no-repeat center center / 100%;
 	
 }
 
 .prime-blaid {
-	background:  #14131a url('/image/background.png') no-repeat center center / 100%;
+	background:  #14131a url('../image/background.png') no-repeat center center / 100%;
 	
 }
 /*--------------------------------------------*/
@@ -156,7 +156,7 @@ body {
 .content .trailer {
 	width: 356px;
 	height: 205px;
-	background: url('/image/treiler.jpg') no-repeat center / contain;
+	background: url('../image/treiler.jpg') no-repeat center / contain;
 	border-radius: 5px;
 	display: flex;
 	align-items: center;
